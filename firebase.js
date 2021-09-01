@@ -1,10 +1,10 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyAH6Tx15yDQ3s7H-XsKqdPk6K70yX9x1xg",
-  authDomain: "third-a7810.firebaseapp.com",
-  projectId: "third-a7810",
-  storageBucket: "third-a7810.appspot.com",
-  messagingSenderId: "348439101337",
-  appId: "1:348439101337:web:607510de6e57b348025d08"
+    apiKey: "AIzaSyC17HqXAcXEqQn_UdpTJq8_am2upXVNjCU",
+  authDomain: "study-niper.firebaseapp.com",
+  projectId: "study-niper",
+  storageBucket: "study-niper.appspot.com",
+  messagingSenderId: "187963802083",
+  appId: "1:187963802083:web:52a8caa652a458a2dea0d6"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
